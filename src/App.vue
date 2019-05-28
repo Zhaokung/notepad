@@ -35,7 +35,7 @@
     export default {
         data(){
             return {
-                tools:false,
+                tools: false,
                 dialog: false,
                 table: false,
                 theme: false,
